@@ -4,7 +4,7 @@ If you are planning on using this for production, please fork it to a private re
 This does not include encyption!
 
 By running these docker-compose files, you will get an instance of NextCloud, Apache, and a MariaDB server.
-
+All of these instances are pulled from their official repos within Docker Hub.
 
 ## Instructions
 
